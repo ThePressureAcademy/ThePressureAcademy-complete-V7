@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 100 100" fill="none">
+<rect x="20" y="18" width="60" height="6" rx="1.5" fill="#000"/>
+<line x1="35" y1="24" x2="38" y2="32" stroke="#333" stroke-width="1.2" opacity="0.5" stroke-linecap="round"/>
+<line x1="50" y1="24" x2="50" y2="30" stroke="#333" stroke-width="1.2" opacity="0.5" stroke-linecap="round"/>
+<line x1="65" y1="24" x2="62" y2="32" stroke="#333" stroke-width="1.2" opacity="0.5" stroke-linecap="round"/>
+<path d="M50 32 L72 52 L50 72 L28 52Z" stroke="#000" stroke-width="2.5" fill="#00000010" stroke-linejoin="round"/>
+<line x1="35" y1="80" x2="38" y2="72" stroke="#333" stroke-width="1.2" opacity="0.5" stroke-linecap="round"/>
+<line x1="50" y1="80" x2="50" y2="74" stroke="#333" stroke-width="1.2" opacity="0.5" stroke-linecap="round"/>
+<line x1="65" y1="80" x2="62" y2="72" stroke="#333" stroke-width="1.2" opacity="0.5" stroke-linecap="round"/>
+<rect x="20" y="80" width="60" height="6" rx="1.5" fill="#000"/>
+<circle cx="50" cy="52" r="13" stroke="#000" stroke-width="2" fill="none"/>
+<path d="M50 39 A13 13 0 1 1 39.5 59" stroke="#333" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<circle cx="50" cy="52" r="2" fill="#000"/>
+<line x1="36" y1="44" x2="44" y2="44" stroke="#333" stroke-width="0.8" opacity="0.3" stroke-linecap="round"/>
+<line x1="56" y1="44" x2="64" y2="44" stroke="#333" stroke-width="0.8" opacity="0.3" stroke-linecap="round"/>
+<line x1="36" y1="60" x2="44" y2="60" stroke="#333" stroke-width="0.8" opacity="0.3" stroke-linecap="round"/>
+<line x1="56" y1="60" x2="64" y2="60" stroke="#333" stroke-width="0.8" opacity="0.3" stroke-linecap="round"/>
+</svg>
